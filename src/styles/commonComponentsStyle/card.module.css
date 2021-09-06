@@ -1,0 +1,56 @@
+.card {
+    background-color: transparent !important;
+    color: white;
+    width: 15rem;
+    height: 20rem;
+    margin: 1rem 1rem;
+    transition: 0.3s;
+    text-overflow: ellipsis;
+    border-color: transparent !important;
+}
+
+.card > img {
+    border-radius: 10px !important;
+}
+
+.cardBody {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.cardBody > span {
+    font-size: small;
+}
+
+.cardContainer:hover > .card {
+    cursor: pointer;
+    transform: scale(1.2);
+    transition: 0.3s;
+}
+
+.info {
+    display: flex;
+    width: 100%;
+}
+
+.titleDiv {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    align-items: flex-start;
+    justify-self: left;
+    justify-content: left;
+    width: 100%;
+    margin: 0rem 1rem 0.5rem 0;
+    padding-right: 0.5rem;
+    font-size: small;
+}
+
+.favoriteCheckbox {
+    float: right;
+}
+
+.subtitle {
+    color: rgb(185, 185, 169);
+}

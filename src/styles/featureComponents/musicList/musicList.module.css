@@ -1,0 +1,52 @@
+.musicListContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0rem;
+}
+
+.search > input {
+    max-width: 30rem;
+    background-color: transparent;
+    color: white;
+}
+
+.filterDiv {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 3rem;
+}
+
+.dateFilter {
+    display: flex;
+    flex-direction: column;
+    margin: 0rem 2rem;
+    align-items: flex-start;
+    color: rgb(224, 73, 73);
+}
+
+.dateFilter > .DateRangePicker_1 {
+    border-radius: 10px;
+}
+
+.categoryFilter {
+    display: flex;
+    flex-direction: column;
+    margin: 0rem 2rem;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    color: rgb(224, 73, 73);
+    margin-bottom: 1.5rem;
+}
+
+.categoryFilter > select {
+    height: 3rem;
+    min-width: 10rem !important;
+}
