@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iTuneClone/static/css/main.218e6e39.chunk.css",
+    "main.js": "/iTuneClone/static/js/main.230a1797.chunk.js",
+    "main.js.map": "/iTuneClone/static/js/main.230a1797.chunk.js.map",
+    "runtime-main.js": "/iTuneClone/static/js/runtime-main.7b9dcfe8.js",
+    "runtime-main.js.map": "/iTuneClone/static/js/runtime-main.7b9dcfe8.js.map",
+    "static/css/2.863ebda7.chunk.css": "/iTuneClone/static/css/2.863ebda7.chunk.css",
+    "static/js/2.263b7b5e.chunk.js": "/iTuneClone/static/js/2.263b7b5e.chunk.js",
+    "static/js/2.263b7b5e.chunk.js.map": "/iTuneClone/static/js/2.263b7b5e.chunk.js.map",
+    "index.html": "/iTuneClone/index.html",
+    "static/css/2.863ebda7.chunk.css.map": "/iTuneClone/static/css/2.863ebda7.chunk.css.map",
+    "static/css/main.218e6e39.chunk.css.map": "/iTuneClone/static/css/main.218e6e39.chunk.css.map",
+    "static/js/2.263b7b5e.chunk.js.LICENSE.txt": "/iTuneClone/static/js/2.263b7b5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b9dcfe8.js",
+    "static/css/2.863ebda7.chunk.css",
+    "static/js/2.263b7b5e.chunk.js",
+    "static/css/main.218e6e39.chunk.css",
+    "static/js/main.230a1797.chunk.js"
+  ]
+}
